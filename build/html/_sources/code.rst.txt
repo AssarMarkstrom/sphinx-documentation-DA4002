@@ -1,0 +1,6 @@
+code
+====
+
+.. automodule:: summary
+   :members:
+
