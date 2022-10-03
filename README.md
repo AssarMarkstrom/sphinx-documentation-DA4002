@@ -1,2 +1,2 @@
 sphinx-documentation
-build/html/code.html
+link[build/html/code.html]
