@@ -9,9 +9,6 @@ DA4002-Data-Analysis-Tool
 Project-Documentation
 =====================
 
-Code files
-==========
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
