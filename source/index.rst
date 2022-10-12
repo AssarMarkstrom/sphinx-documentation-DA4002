@@ -3,11 +3,24 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to DA4002-documentation's documentation!
-================================================
+DA4002-Data-Analysis-Tool
+=========================
+
+Project-Documentation
+=====================
+
+Code files
+==========
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   code
+   main
+
+   file_handler
+
+   filter
+
+   summary
+

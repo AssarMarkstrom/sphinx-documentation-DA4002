@@ -9,7 +9,7 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('..\..\..\Kurser\mjukvaruutveckling\DA4002-Projekt'))
 
-project = 'DA4002-documentation'
+project = 'DA4002-Data-Analysis-Tool'
 copyright = '2022, AssarMarkstrom'
 author = 'AssarMarkstrom'
 release = '0.1'

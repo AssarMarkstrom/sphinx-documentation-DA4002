@@ -1,0 +1,5 @@
+SUMMARY
+=======
+
+.. automodule:: summary
+   :members:
