@@ -1,0 +1,5 @@
+MENUS
+=====
+
+.. automodule:: menus
+   :members:

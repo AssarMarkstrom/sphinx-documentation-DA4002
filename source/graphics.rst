@@ -1,0 +1,5 @@
+GRAPHICS
+============
+
+.. automodule:: graphics
+   :members:

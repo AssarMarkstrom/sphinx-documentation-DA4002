@@ -17,7 +17,15 @@ Project-Documentation
 
    file_handler
 
-   filter
+   filter_handler
 
    summary
+
+   graphics
+
+   GUI
+
+   menus
+
+   classes
 

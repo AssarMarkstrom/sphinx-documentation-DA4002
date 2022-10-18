@@ -1,5 +1,5 @@
-FILTER
-======
+FILTER_HANDLER
+==============
 
-.. automodule:: filter
+.. automodule:: filter_handler
    :members:
